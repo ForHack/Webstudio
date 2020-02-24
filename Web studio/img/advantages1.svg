@@ -1,0 +1,14 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="25" cy="25" r="25" fill="url(#paint0_linear)"/>
+<rect x="17" y="13" width="16" height="24" fill="url(#pattern0)"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="scale(0.0625 0.0416667)"/>
+</pattern>
+<linearGradient id="paint0_linear" x1="4.70486" y1="50" x2="45.2778" y2="50" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5F58AC"/>
+<stop offset="1" stop-color="#9055A4"/>
+</linearGradient>
+<image id="image0" width="16" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAYAAADzoH0MAAAArUlEQVQ4Ee2UwQ3CMAxFv1HvdATYgBHCBozCBpQNGIFROkJXYAK6wUM/KsopVQaIL0lsfzuykheSBFwkPSSNPjfYKukZEYvFI/AFJiABd+r23nKcu1o7SHL3T0RM7gwsOzd5RYS7z8DNWhew2ZltS8jF/r7KmjWHSrDZ3QtIfQZ9Bv4w/R2UGRybCVISM4CNNDPwDJjKc4nv7pKkk7WDGWjSSjIHr7uyEjQPk7U/SUtcoyMn+dsAAAAASUVORK5CYII="/>
+</defs>
+</svg>
